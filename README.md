@@ -20,4 +20,4 @@ News articles for ProHits-viz.
 }
 ```
 
-© 2018 James Knight.
+© 2019 James Knight.
