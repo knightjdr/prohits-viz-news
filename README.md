@@ -9,14 +9,14 @@ News articles for ProHits-viz.
 
 `node convert-html.js article.html`
 
-3. Create object for mongodb:
+3. Create object for mongodb. Note, headlines should not have dashes as they
+are used for encoding whitespace in the URL.
 
 ```
 {
-  details: 'Summary of story',
-  hashtags: ['Hashtag1', 'Hashtag2'],
   headline: 'News story',
-  html: 'String from step 2'
+  html: 'String from step 2',
+  summary: 'Summary of story'
 }
 ```
 
