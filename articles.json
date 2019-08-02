@@ -1,0 +1,14 @@
+[
+  {
+    "date": "Wed, 31 Oct 2018 12:00:00 GMT",
+    "file": "2018/october/2018-10-31-alpha-test.html",
+    "headline": "2.0 alpha test begins",
+    "summary": "Learn about the first stage of testing for the new ProHits-viz interface."
+  },
+  {
+    "date": "Friday, 2 Aug 2019 12:00:00 GMT",
+    "file": "2019/august/2019-8-2-gene-info.html",
+    "headline": "GIX browser extension released",
+    "summary": "Quickly retreive gene information at ProHits-viz using the GIX browser extension."
+  }
+]
