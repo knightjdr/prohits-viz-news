@@ -13,7 +13,7 @@
     "url": "git+https://github.com/knightjdr/prohits-viz-news.git"
   },
   "dependencies": {
-    "html-minifier": "^3.5.20",
-    "mongodb": "^3.3.0-beta2"
+    "html-minifier": "^3.5.21",
+    "mongodb": "^3.5.4"
   }
 }

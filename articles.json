@@ -10,5 +10,11 @@
     "file": "2019/august/2019-8-2-gene-info.html",
     "headline": "GIX browser extension released",
     "summary": "Quickly retreive gene information at ProHits-viz using the GIX browser extension."
+  },
+  {
+    "date": "Monday, 2 Mar 2020 12:00:00 GMT",
+    "file": "2020/march/2020-3-2-beta-test.html",
+    "headline": "2.0 beta test of dot plot and correlation tools",
+    "summary": "Learn about the next stage of testing for the new ProHits-viz interface."
   }
 ]
