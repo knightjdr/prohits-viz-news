@@ -16,5 +16,11 @@
     "file": "2020/march/2020-3-6-beta-test.html",
     "headline": "2.0 beta test of dot plot and correlation tools",
     "summary": "Learn about the next stage of testing for the new ProHits-viz interface."
+  },
+  {
+    "date": "Wednesday, 20 Jan 2021 12:00:00 GMT",
+    "file": "2021/january/2021-1-20-scatter-tools.html",
+    "headline": "2.0 beta test of scatter plot tools",
+    "summary": "Scatter plot analysis, with a new interactive viewer, is now live."
   }
 ]
