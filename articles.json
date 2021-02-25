@@ -22,5 +22,11 @@
     "file": "2021/january/2021-1-20-scatter-tools.html",
     "headline": "2.0 beta test of scatter plot tools",
     "summary": "Scatter plot analysis, with a new interactive viewer, is now live."
+  },
+  {
+    "date": "Thursday, 25 February 2021 12:00:00 GMT",
+    "file": "2021/february/2021-2-25-scv.html",
+    "headline": "New tool for single condition visualization",
+    "summary": "The SCV tool for visualizing data on a single condition (e.g. bait, experiment) is now available."
   }
 ]
