@@ -27,4 +27,8 @@ node app/index.js
 * `mongo.json`: json array of articles for database
 * `rss.xml`: rss feed for website
 
+5. Move rss.xml to `public` folder in client repo
+
+6. Add entry for news article to sitemap.xml in `public` folder in client repo
+
 © 2019 James Knight.
