@@ -33,6 +33,12 @@
     "date": "Monday, 19 July 2021 12:00:00 GMT",
     "file": "2021/july/2021-7-19-new-home.html",
     "headline": "A new home",
-    "summary": "ProHits-viz has officially moved from its old home"
+    "summary": "ProHits-viz has officially moved from its old home."
+  },
+  {
+    "date": "Wednesday, 6 October 2021 12:00:00 GMT",
+    "file": "2021/october/2021-10-6-crispr-support.html",
+    "headline": "Support for data from CRISPR workflows",
+    "summary": "Data produced by several CRISPR screen analysis tools are now explicitly supported at ProHits-viz."
   }
 ]
